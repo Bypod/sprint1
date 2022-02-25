@@ -1,6 +1,7 @@
 const http = require('http');
 const {parse} = require('querystring')
 const {tokenGenerate} = require('./token')
+const {doublelist} = require('./linked')
 
 
 const server = http.createServer((req, res) => {
@@ -9,8 +10,8 @@ const server = http.createServer((req, res) => {
         req.on('data', function(data){
             body+=data;
             var username = parse(body).username
-            tokenGenerate(username)
-            res.end(`<h1>Token created for: ${username}</h1>`)
+            
+            res.end(`<h1>Token created for: ${username}</h1>\nToken: ${tokenGenerate(username)}`)
         })
     } else {
         res.end(`

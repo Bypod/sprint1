@@ -2,15 +2,15 @@ index commands:
 
 index <command><option>
 
-index init --all
+index init --all    //initalizes folder and files
 index init a
 index init
 index i
 
-index token
+index token         //create and search tokens
 
-index cat
+index cat           //edit and reset config file
 
-index help
+index help          //this file help file displays all index commands
 index h
 index

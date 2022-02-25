@@ -1,0 +1,57 @@
+
+20220225	17:17:55	INFO	initCreate()	Node initialized
+20220225	17:17:55	INFO	sppInit()	Initialization requested
+20220225	17:23:39	INFO	initCreate()	Node initialized
+20220225	17:23:39	INFO	appInit()	Initialization requested
+20220225	17:23:39	INFO	configCreate()	config file created and information added
+20220225	17:43:04	INFO	createToken()	Token generation
+20220225	17:43:15	INFO	indexCommands()	User requested help commands
+20220225	17:45:35	INFO	createToken()	Token generation
+20220225	17:46:53	INFO	editFile()	User requested editing of the config file
+20220225	17:47:13	INFO	indexCommands()	User requested help commands
+20220225	18:05:57	INFO	initCreate()	Node initialized
+20220225	18:05:57	INFO	configCreate()	config file created and information added
+20220225	18:05:57	INFO	appInit()	Initialization requested
+20220225	18:06:02	INFO	indexCommands()	User requested help commands
+20220225	18:06:14	INFO	createToken()	Token generation
+20220225	18:06:41	INFO	tokenGenerate()	Creating New Token
+20220225	18:06:41	INFO	createToken()	Token generation
+20220225	18:07:13	INFO	searchTokens()	Search Based on Username
+20220225	18:07:13	INFO	createToken()	Token generation
+20220225	18:07:26	INFO	searchTokens()	Search Based on Email
+20220225	18:07:26	INFO	createToken()	Token generation
+20220225	18:07:51	INFO	searchTokens()	Search Based on Email
+20220225	18:07:51	INFO	createToken()	Token generation
+20220225	18:08:33	INFO	searchTokens()	Search Based on Email
+20220225	18:08:33	INFO	createToken()	Token generation
+20220225	18:09:14	INFO	searchTokens()	Search Based on Email
+20220225	18:09:14	INFO	createToken()	Token generation
+20220225	18:09:35	INFO	searchTokens()	Search Based on Email
+20220225	18:09:35	INFO	createToken()	Token generation
+20220225	18:09:53	INFO	searchTokens()	Search Based on Email
+20220225	18:09:53	INFO	createToken()	Token generation
+20220225	18:10:49	INFO	createToken()	Token generation
+20220225	18:10:49	INFO	searchTokens()	Search Based on Email
+20220225	18:11:37	INFO	searchTokens()	Search Based on Email
+20220225	18:11:37	INFO	createToken()	Token generation
+20220225	18:11:49	INFO	createToken()	Token generation
+20220225	18:11:49	INFO	searchTokens()	Search Based on Email
+20220225	18:12:01	INFO	createToken()	Token generation
+20220225	18:13:27	INFO	createToken()	Token generation
+20220225	18:13:59	INFO	editFile()	User requested editing of the config file
+20220225	18:14:08	INFO	resetFile()	Reset of default values to the 
+20220225	18:14:08	INFO	editFile()	User requested editing of the config file
+20220225	18:15:45	INFO	setFile()	User Requsted setting new values to the config file
+20220225	18:15:45	INFO	editFile()	User requested editing of the config file
+20220225	18:16:28	INFO	indexCommands()	User requested help commands
+20220225	18:17:30	INFO	indexCommands()	User requested help commands
+20220225	18:17:41	INFO	initCreate()	Node initialized
+20220225	18:17:41	INFO	appInit()	Initialization requested
+20220225	18:17:41	INFO	configCreate()	config file created and information added
+20220225	18:17:56	INFO	editFile()	User requested editing of the config file
+20220225	18:18:03	INFO	resetFile()	Reset of default values to the 
+20220225	18:18:03	INFO	editFile()	User requested editing of the config file
+20220225	18:20:33	INFO	setFile()	User Requsted setting new values to the config file
+
+20220225	19:17:02	INFO	resetFile()	Reset of default values to the 
+20220225	19:17:02	INFO	editFile()	User requested editing of the config file

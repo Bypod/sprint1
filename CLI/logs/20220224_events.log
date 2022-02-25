@@ -1,0 +1,8 @@
+
+20220225	16:04:21	INFO	initCreate()	Node initialized
+20220225	16:04:21	INFO	sppInit()	Initialization requested
+20220225	17:05:44	WARN	indexCommands()	User did not specify a command so help command file was printed
+20220225	17:05:55	INFO	indexCommands()	User requested help commands
+20220225	17:05:55	WARN	indexCommands()	User did not specify a command so help command file was printed
+20220225	17:06:57	INFO	indexCommands()	User requested help commands
+20220225	17:06:57	WARN	indexCommands()	User did not specify a command so help command file was printed

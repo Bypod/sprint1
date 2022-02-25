@@ -1,7 +1,7 @@
 {
   "name": "configCLI",
-  "version": "1.0.0",
-  "description": "The Command Line Interface (CLI) for the MyApp.",
+  "version": "2.0.0",
+  "description": "The Command Line Interface (CLI) for index.",
   "main": "index.js",
-  "superduperuser": "adminiosso"
+  "superduperuser": "PeteDaMan"
 }

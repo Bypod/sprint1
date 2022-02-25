@@ -13,7 +13,7 @@ switch(myArgs[0]){
     case 'i':
         console.log('App Start');
         appInit()
-        logEvents('sppInit()', 'INFO', 'Initialization requested')
+        logEvents('appInit()', 'INFO', 'Initialization requested')
         break;
     case 'token':
         console.log('Token generation')
@@ -46,6 +46,7 @@ function indexCommands() {
             fs.writeFile(path.join(__dirname, './usage', 'commands.txt'), indexInfo, (err) => {
                 if(err) console.log(err);
                 else console.log('Missing Files Created')
+                indexCommands()
             });
         }
     } else {

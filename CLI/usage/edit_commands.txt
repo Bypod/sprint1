@@ -1,0 +1,12 @@
+
+Edit commands:
+
+index cat <command><option><value>
+
+index cat reset                  //resets the config file to its default state
+
+index cat set name <value>       //Update the name value in the config file
+index cat set version <value>    //Update the version value in the config file
+index cat set desc <value>       //Update the description value in the config file
+index cat set main <value>       //Update the main route file in the config file
+index cat set user <value>       //Update the user value in the config file

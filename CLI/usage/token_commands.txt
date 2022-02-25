@@ -1,0 +1,10 @@
+Token commands:
+
+index token <command>
+
+index token create <value>
+
+index token search username <value>
+index token search u <value>
+index token search email <value>
+index token search e <value>
