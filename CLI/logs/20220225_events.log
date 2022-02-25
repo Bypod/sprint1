@@ -55,3 +55,7 @@
 
 20220225	19:17:02	INFO	resetFile()	Reset of default values to the 
 20220225	19:17:02	INFO	editFile()	User requested editing of the config file
+20220225	19:18:52	INFO	searchTokens()	Search Based on Email
+20220225	19:18:52	INFO	createToken()	Token generation
+20220225	19:19:24	INFO	searchTokens()	Search Based on Username
+20220225	19:19:24	INFO	createToken()	Token generation

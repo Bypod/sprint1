@@ -23,7 +23,7 @@ const server = http.createServer((req, res) => {
             <body>
                 <form action="/" method="post">
                     <input type="text" name="username" placeholder="token search...">
-                    <button onclick=>Search</button>
+                    <button onclick=>generate</button>
                 </form>
             </body>
             </html>
