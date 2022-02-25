@@ -1,0 +1,20 @@
+[
+    {
+        "created": "2022-02-23T15:56:40.298Z",
+        "username": "3Ric",
+        "email": "1234@example.com",
+        "phone": "7095554321",
+        "token": "cc669281",
+        "expires": "2022-02-26T15:56:40.298Z",
+        "confirmed": "tbd"
+    },
+    {
+        "created": "2022-02-24T13:20:28.775Z",
+        "username": "jpbyrne16",
+        "email": "jpbyrne16@keyin.ca",
+        "phone": "7095554321",
+        "token": "ac0027be",
+        "expires": "2022-02-27T13:20:28.775Z",
+        "confirmed": "tbd"
+    }
+]

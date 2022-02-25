@@ -1,0 +1,16 @@
+index commands:
+
+index <command><option>
+
+index init --all
+index init a
+index init
+index i
+
+index token
+
+index cat
+
+index help
+index h
+index
