@@ -1,0 +1,10 @@
+insert into location (loc_id, loc_name, country, city, track_type) values (1, null, 'Japan', 'Ijūin', null);
+insert into location (loc_id, loc_name, country, city, track_type) values (2, null, 'United States', 'Des Moines', null);
+insert into location (loc_id, loc_name, country, city, track_type) values (3, null, 'Australia', 'Northern Suburbs Mc', null);
+insert into location (loc_id, loc_name, country, city, track_type) values (4, null, 'Canada', 'Bridgewater', null);
+insert into location (loc_id, loc_name, country, city, track_type) values (5, null, 'United States', 'Dayton', null);
+insert into location (loc_id, loc_name, country, city, track_type) values (6, null, 'Japan', 'Gosen', null);
+insert into location (loc_id, loc_name, country, city, track_type) values (7, null, 'Japan', 'Tatsunochō-tominaga', null);
+insert into location (loc_id, loc_name, country, city, track_type) values (8, null, 'Canada', 'Arnprior', null);
+insert into location (loc_id, loc_name, country, city, track_type) values (9, null, 'United States', 'Louisville', null);
+insert into location (loc_id, loc_name, country, city, track_type) values (10, null, 'United States', 'Topeka', null);
