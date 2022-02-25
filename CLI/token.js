@@ -2,6 +2,7 @@ const myArgs = process.argv.slice(2)
 const fs = require('fs')
 const crc = require('crc/crc32');
 const {doublelist} = require('./linked')
+const {logEvents} = require('./logger')
 
 function addDays(date, days) {
     var result = new Date(date);
@@ -73,9 +74,9 @@ function searchTokens(){
             break;
     }
 
-    let username = myArgs[2]
+    // let username = myArgs[2]
 
-    console.log(doublelist.search(username))
+    // console.log(doublelist.search(username))
 }
 
 

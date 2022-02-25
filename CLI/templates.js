@@ -35,13 +35,13 @@ Edit commands:
 
 index token <command>
 
-index token...                
+index token create <value>
 
-index token       
-index token       
-index token       
-index token       
-index token      
+index token search username <value>
+index token search u <value>
+index token search email <value>
+index token search e <value>
+
 `
 
 let config = 

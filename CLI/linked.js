@@ -110,7 +110,12 @@ class DoubleList{
         let current = this.head;
         for(let i = 0; i< this.count && current !=null; i++){
             if(this.equalsFn(element,current.element.email)){
-                return current.element.token;
+                // return current.element.token;
+                if(current.element.token == undefined){
+                    return 'Incorrect email format... All emails are as follows: <username>@keyin.ca'
+                } else {
+                    return current.element.token
+                }
 
             }
             current = current.next;
